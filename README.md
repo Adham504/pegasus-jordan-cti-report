@@ -12,7 +12,7 @@ This report maps the full campaign — adversary, infrastructure, capability, an
 
 | File | Description |
 | --- | --- |
-| [`report_en.md`](./report_en.md) | Full report — English |
+| [`report_en.md`](https://github.com/Adham504/pegasus-jordan-cti-report/blob/main/pegasus_jordan_report_EN.md) | Full report — English |
 | [`report_ar.md`](https://github.com/Adham504/pegasus-jordan-cti-report/blob/main/pegasus_jordan_report_AR.md) | التقرير الكامل — عربي |
 
 Both versions include a Diamond Model diagram, an ATT&CK-mapped attack workflow, and a visual timeline (rendered via Mermaid — view on GitHub, VS Code, or Obsidian for full diagram support).
